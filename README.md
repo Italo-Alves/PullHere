@@ -1,3 +1,3 @@
 # PullHere
 
-Aula da faculdade aprendendo a fazer pull request.
+Aula da faculdade aprendendo fazer pull request.
